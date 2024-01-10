@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dancing+Script:wght@500&family=Montserrat:wght@600&family=Poppins:wght@600&display=swap');
 
+@font-face {
+  font-family: 'Poppins';
+  src: url(./Poppins-Bold.woff2);
+}
 * {
   margin: 0;
   padding: 0;
